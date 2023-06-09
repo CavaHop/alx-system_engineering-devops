@@ -1,2 +1,4 @@
-#!/bin/bashh
+#!/bin/bash
 ls -lA
+
+
