@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -maxpd . .. *[0-9]*
+ls -m -axpd . .. *[0-9]*
