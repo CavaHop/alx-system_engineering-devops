@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -adm1  sed 's/^\.\,/\.\.\,./' [:alnum:]
+ls -maxp
