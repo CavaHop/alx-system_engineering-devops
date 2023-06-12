@@ -13,6 +13,6 @@ drwxr-xr-x 5 root root 109 Jun 11 20:54 ..
 -rwxr--r-- 1 root root 100 Jun 11 23:21 7-file
 -rwxr--r-- 1 root root  36 Jun 12 01:42 8-cwd_state
 -rw-r--r-- 1 root root  12 Jun 11 23:22 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 root root   0 Jun 12 01:43 ls_cwd_content
+-rw-r--r-- 1 root root   0 Jun 12 01:49 ls_cwd_content
 -rw-r--r-- 1 root root  31 Jun 11 21:20 README.md
 -rw-r--r-- 1 root root   0 Jun 11 21:19 README.md~
