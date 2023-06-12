@@ -1,2 +1,3 @@
 #!/bin/bash
-find . -mindepth 2 -type d -print | wc -l | ls -lRa
+find . -mindepth 2 -maxdepth 2 -type d | wc -l
+ls -lRa
